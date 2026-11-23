@@ -3,15 +3,15 @@
 </p>
 <table>
 <tr>
-<td width="80%" align="center" valign="middle">
+<td width="70%" align="center" valign="middle">
 
-<img src="Không Có Tiêu Đề400_20260925194106.png" width="300%">
+<img src="Không Có Tiêu Đề400_20260925194106.png" width="700%">
 
 </td>
 
 <td width="90%" align="center" valign="middle">
 
-<img src="8f0c68b5ec0bdfea28cae63d51a81f10.jpg" width="200%">
+<img src="8f0c68b5ec0bdfea28cae63d51a81f10.jpg" width="50%">
 
 ꒰e꒱ : ɓׅɑɓׂɥ tɩׂɡ͟ɛׅ͟ɾ ៹ z႗႑ ׂ tɑ︩︪ɛ ɓɛɑɾ ׅ 𝒊
 
@@ -19,7 +19,3 @@
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=1&pause=999999&color=F5A9D0&center=true&vCenter=true&width=350&height=50&lines=Tsukishiro+Seiya" />
 </p>
 <img src="ml emot.png" width="75">
-
-<br>
-
-<img src="ribbon.gif" width="450">
