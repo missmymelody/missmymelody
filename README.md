@@ -29,3 +29,12 @@
 <p align="center">
   <img src="8d2074f264de492e1fba076c45321e59.gif" width="800">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3500&pause=1000&color=F5A9D0&center=true&vCenter=true&width=750&height=60&lines=living+in+a+little+pink+daydream+%E2%99%A1" />
+</p>
+</table>
+
+<p align="center">
+  <img src="ml.PNG" width="900">
+</p>
