@@ -3,27 +3,21 @@
 </p>
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="80%" align="center" valign="middle">
 
-<img src="./assets/oc.png" width="100%">
+<img src="Không Có Tiêu Đề400_20260925194106.png" width="300%">
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="90%" align="center" valign="middle">
 
-<img src="./assets/banner.png" width="100%">
+<img src="8f0c68b5ec0bdfea28cae63d51a81f10.jpg" width="200%">
 
-<p>he / him　✦　9 teen　♡　ISFP</p>
+꒰e꒱ : ɓׅɑɓׂɥ tɩׂɡ͟ɛׅ͟ɾ ៹ z႗႑ ׂ tɑ︩︪ɛ ɓɛɑɾ ׅ 𝒊
 
-<p>offtab　/　afk　　w2i　　avoidant</p>
-
-<p>︵‿୨♡୧‿︵</p>
-
-<h1>rentry　atabook</h1>
-
-<img src="./assets/pic1.png" width="75">
-<img src="./assets/pic2.png" width="75">
-<img src="./assets/pic3.png" width="75">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=1&pause=999999&color=F5A9D0&center=true&vCenter=true&width=350&height=50&lines=Tsukishiro+Seiya" />
+</p>
 
 </td>
 </tr>
