@@ -25,4 +25,6 @@
 <p align="center">
   <img src="ml emot.png" height="90" />
   <img src="0fca0c5c79d71d39112b4936992a0676.gif" width="650" height="55" />
+  <br>
+  <img src="8d2074f264de492e1fba076c45321e59.gif" width="900">
 </p>
